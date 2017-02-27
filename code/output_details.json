@@ -1,0 +1,13 @@
+{
+  "context": {
+    "party": "@sys-number"
+  },
+  "output": {
+    "text": {
+      "values": [
+        "Excellent! Here are the details of your booking. Type: $cuisine Time: $startdate $starttime Number in Party: @sys-number"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}

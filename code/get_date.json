@@ -1,0 +1,13 @@
+{
+  "context": {
+    "cuisine": "@cuisine"
+  },
+  "output": {
+    "text": {
+      "values": [
+        "Me too! When do you want to book @cuisine?"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}

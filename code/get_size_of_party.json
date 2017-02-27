@@ -1,0 +1,14 @@
+{
+  "context": {
+    "startdate": "@sys-date",
+    "starttime": "@sys-time"
+  },
+  "output": {
+    "text": {
+      "values": [
+        "And how many people for <? $cuisine ?>?"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
