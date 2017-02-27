@@ -6,7 +6,7 @@
   "output": {
     "text": {
       "values": [
-        "And how many people for <? $cuisine ?>?"
+        "And how many people for $cuisine?"
       ],
       "selection_policy": "sequential"
     }

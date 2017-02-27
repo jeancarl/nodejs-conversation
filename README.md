@@ -11,7 +11,7 @@ Download and follow the lab found in [nodejs-conversation.pdf](https://github.co
 JavaScript and other files used in this Node.js tutorial are provided for your convenience in the following files:
 * [get_date.json] (https://github.com/jeancarl/nodejs-conversation/tree/master/code/get_date.json) JSON object response for the Get Date node
 * [get_size_of_party.json] (https://github.com/jeancarl/nodejs-conversation/tree/master/code/get_size_of_party.json) JSON object response for the Get Size of Party node
-* [classify.js](https://github.com/jeancarl/nodejs-conversation/tree/master/code/output_details.json) JSON object response for the Output Details node
+* [output_details.json](https://github.com/jeancarl/nodejs-conversation/tree/master/code/output_details.json) JSON object response for the Output Details node
 * [hungerbot_workspace.json](https://github.com/jeancarl/nodejs-conversation/tree/master/code/hungerbot_workspace.json) Completed restaurant bot that can be imported into the Watson Conversation tooling.
 
 ## License
